@@ -1,10 +1,6 @@
 
 // useful imports; you may not need these depending on your approach
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.PriorityQueue;
-import java.util.Collections;
-import java.util.Comparator;
 
 public class KSmallestNumsTemplate {
     ArrayList<Integer> inputArr;

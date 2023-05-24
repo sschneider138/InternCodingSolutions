@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class FibonacciTemplate {
     int n;
