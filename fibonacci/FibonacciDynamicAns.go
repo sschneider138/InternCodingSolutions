@@ -19,8 +19,6 @@ func (fibStructInstance *FibStruct) dynamicSol() int {
 	for i = 3; i < len(storageList); i++ {
 		storageList[i] = storageList[i-1] + storageList[i-2]
 	}
-	// var output int
-	// output = storageList[len(storageList)-1]
 	return storageList[len(storageList)-1]
 }
 

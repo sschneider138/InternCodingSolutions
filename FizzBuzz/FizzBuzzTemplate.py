@@ -1,4 +1,4 @@
-class FuzzBizz:
+class FizzBuzz:
     # constructor
     def __init__(self, k):
         self.k = k
