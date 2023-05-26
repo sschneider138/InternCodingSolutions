@@ -24,6 +24,13 @@
             "name": "Kotlin Launch",
             "projectRoot": "${workspaceFolder}",
             "mainClass": "path.to.your.MainClassKt"
+        },
+        {
+            "type": "go",
+            "request": "launch",
+            "name": "Go debug",
+            "mode": "debug",
+            "program": "${file}"
         }
     ]
 }
