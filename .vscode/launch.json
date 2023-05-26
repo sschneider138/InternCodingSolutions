@@ -5,20 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "MergeSortedListsAns_Hard",
-            "request": "launch",
-            "mainClass": "MergeSortedListsAns_Hard",
-            "projectName": "interns_8c756668"
-        },
-        {
-            "type": "java",
-            "name": "MergeSortedListsAns_Easy",
-            "request": "launch",
-            "mainClass": "MergeSortedListsAns_Easy",
-            "projectName": "interns_8c756668"
-        },
-        {
             "type": "kotlin",
             "request": "launch",
             "name": "Kotlin Launch",
