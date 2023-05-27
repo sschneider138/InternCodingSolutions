@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FizzBuzzAns">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FizzBuzz/FizzBuzzAns.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
