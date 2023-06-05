@@ -1,4 +1,4 @@
-package main
+package function
 
 import (
 	"fmt"
@@ -23,7 +23,7 @@ func (fibStructInstance *FibStruct) dynamicSol() int {
 }
 
 func main() {
-	var testInstance FibStruct = FibStruct{50}
+	var testInstance FibStruct = FibStruct{100}
 	var output = testInstance.dynamicSol()
 	fmt.Println(output)
 }
